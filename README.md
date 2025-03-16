@@ -1,4 +1,4 @@
-# Amazon Prime Customer Data Analysis
+# Amazon Prime Customer Data Analysis Project
 
 <div style="text-align:center;">
    <img src="img/portada.webp" alt="dashboard"/>

@@ -1,7 +1,7 @@
 # Amazon Prime Customer Data Analysis Project
 
 <div style="text-align:center;">
-   <img src="img/portada.webp" alt="dashboard"/>
+   <img src="img/portada.png.png" alt="dashboard"/>
 </div>
 
 # Project Description
@@ -33,15 +33,14 @@ dashboard
     
     - **dashboard
 
-# dasboard
+# Dasboard
 
 <div style="text-align:center;">
-   <img src="img/dashboard.png" alt="dashboard"/>
+   <img src="img/dashboard.png.png" alt="dashboard"/>
 </div>
 
-# conclusion
+# Conclusion
 
-Conclusion:
 
 -The overall churn rate is 27%, which indicates a significant area for improvement.
 
